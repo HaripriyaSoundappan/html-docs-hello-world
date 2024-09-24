@@ -1,6 +1,5 @@
-Lion
-Tiger
-Monkey
-Zibra
-Deer
-hp
+Mango
+Apple
+Graphs
+Pineapple
+Watermelon
