@@ -1,5 +1,5 @@
-Lion
-Tiger
-Hari priya 
-Jaya priya 
-Neelambal
+Apple
+Orange
+Watermelon
+Pineapple
+Graphs
