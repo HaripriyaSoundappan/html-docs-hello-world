@@ -1,5 +1,5 @@
-Apple
-Orange
-Watermelon
-Pineapple
-Graphs
+Lion
+Tiger
+Monkey
+Zibra
+Deer
